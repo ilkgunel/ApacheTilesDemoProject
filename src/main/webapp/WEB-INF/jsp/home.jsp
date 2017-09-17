@@ -1,0 +1,2 @@
+<h2>What is Formula One?</h2>
+<h2>Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is sanctioned by the Fédération Internationale de l'Automobile (FIA).</h2>
